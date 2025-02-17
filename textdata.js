@@ -1,5 +1,5 @@
 {
-"footer": "*Followe Us*\nChanel:\nsc:https://github.com/lakaofc\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ 🧘‍♂️🪄🖇️"
+"footer": "*Followe Us*\nChanel:\nsc:https://github.com/lakaofc\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ 🧘‍♂️🪄🖇️",
 "replyMsg": {
   "givetext": "*Please give me text..!✏️*",
   "giveurl": "*Please give me Url..!🖇️*",
@@ -9,4 +9,5 @@
   "pinbox": "*This Comade Only Use Inbox..!👁️*",
   "emsg": "*Erorr..!*"
 
+}
 }
