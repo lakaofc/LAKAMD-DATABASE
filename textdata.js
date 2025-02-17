@@ -1,5 +1,5 @@
 {
-"footer": "*Followe Us*\nChanel: https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y\nsc: https://github.com/lakaofc/laka-md\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ 🧘‍♂️🪄🖇️",
+"footer": "*Followe Us*\nREPO: https://github.com/lakaofc/laka-md\nCHANEL: https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y nn\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ ⚙️",
 "replyMsg": {
   "givetext": "*Please give me text..!✏️*",
   "giveurl": "*Please give me Url..!🖇️*",
